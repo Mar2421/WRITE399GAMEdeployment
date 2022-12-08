@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"FEBattler","characterIndex":0,"characterName":"ARMWalk","classId":6,"equips":[5,0,0,6,0],"faceIndex":1,"faceName":"FerrowynFaces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ferrowyn","nickname":"","note":"Perseverant, hopeful, she wants to help her \nbrother at whatever cost. She has great \npotential to become a great Alchemist!","profile":"Perseverant, hopeful, she helps her brother at whatever\ncost. She's great potential to becomme a top Alchemist!"},
+{"id":2,"battlerName":"NABattler","characterIndex":4,"characterName":"ARMWalk","classId":7,"equips":[6,0,0,5,7],"faceIndex":0,"faceName":"Nathaniel","traits":[],"initialLevel":2,"maxLevel":99,"name":"Nathaniel","nickname":"Nate","note":"","profile":"A man who goes around protecting the village from\nmonsters. He is kind and loves his wife dearly."},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
